@@ -1,0 +1,5 @@
+    According to PEP8 recommended style for Python is camel case which is also called "Pascal case", CAPSWORDS_LETTERS_AND UNDERSCORES for a constant name, lowercase_letters_and_underscores for other case. Also like in C-family programming languages availabe access modifiers like public and private. Second one is accessible throuhg giving underscore in front of the variable name (example - init)and this is just an agreement but not an obligatory rule.
+Mechanics when some word in online translator receives both meanings and synonyms.
+naming convention
+
+mangling-koverkanie
